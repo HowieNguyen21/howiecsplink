@@ -6,6 +6,11 @@ Unit1:
   end: 3
 Unit2:
   title: Learn Language
-  description: Learn (JavaScript|Python|Java).  Start Agile development process.
+  description: Learn JavaScript, Python, and Java.  Start Agile development process.
   start: 4
   end: 7
+Unit3:
+  title: Team Teaching and Final
+  description: Listening and Teaching people different ways to code, working on Passion Project.
+  start: 8
+  end: 12
